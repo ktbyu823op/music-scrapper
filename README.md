@@ -1,3 +1,3 @@
-# Python Music Album Scrapper in Bandcamp.com
+# Python Music Album Scrapper from Bandcamp.com
 
 This Scrapper uses Selenium and BeautifulSoup
